@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792538126615",
+    "project_id": "motion-challenge-9746a",
+    "storage_bucket": "motion-challenge-9746a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792538126615:android:67cda737b792f0b883ff52",
+        "android_client_info": {
+          "package_name": "com.zakyal.motion_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMKBN6uUqPyIQ6bVPXnqJm9uQjn8g6Dzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
